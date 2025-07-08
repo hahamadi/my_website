@@ -1,0 +1,91 @@
+<section class="module bg-dark-60 pt-0 pb-0 parallax-bg testimonial" data-background="https://drive.google.com/uc?id=17ivj_Aub8hBwa4B73DrEfjbLGKTb8qQ9" style="background-image: url(&quot;https://drive.google.com/uc?id=17ivj_Aub8hBwa4B73DrEfjbLGKTb8qQ9&quot;);">
+        
+        
+          <div class="card-sliders ">
+            <div class="container ">
+              <div class="row align-items-center">
+                <div class="col-md">
+                <h2 class="module-title font-alt">Agenda Poltek Nuklir</h2>
+                  <div class="row mt-5">
+                    <div class="col-lg">
+                      <div class="card-decks">
+                        <div class="card-deck deck-active">
+                          <div class="card">
+                            <h5>An awesome title</h5>
+                            <img class="card-img" src="https://drive.google.com/uc?id=1VQd5E-x3CPNvmBxWh-IxR1tHwJvF_lPF" alt="Card image">
+                            <p>just title</p>
+                            <div styles="position: absolute;">
+                             <p >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, maiores.</p>
+                            </div>
+                          </div>
+                          <div class="card">
+                          <img class="card-img" src="https://images.pexels.com/photos/2501968/pexels-photo-2501968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Card image">
+                          <div class="card-img-overlay">
+                           <h5 class="card-title">An awesome title</h5>
+                           <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, maiores.</p>
+                           <p class="card-text">
+                             Photo taken by
+                             <a href="https://www.pexels.com/nl-nl/@jeffrey-czum-254391">Jeffrey Czum</a>
+                            </p>
+                          </div>
+                        </div>
+                          <div class="card">
+                          <img class="card-img" src="https://images.pexels.com/photos/96932/pexels-photo-96932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Card image">
+                          <div class="card-img-overlay">
+                           <h5 class="card-title">An awesome title</h5>
+                           <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, maiores.</p>
+                           <p class="card-text">
+                             Photo taken by
+                             <a href="https://www.pexels.com/nl-nl/@francesco-ungaro">Francesco Ungaro</a>
+                          </p>
+                          </div>
+                        </div>
+                        </div>
+                        <div class="card-deck">
+                          <div class="card">
+                            <img class="card-img" src="https://images.pexels.com/photos/3715436/pexels-photo-3715436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Card image">
+                            <div class="card-img-overlay">
+                             <h5 class="card-title">An awesome title</h5>
+                             <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, maiores.</p>
+                             <p class="card-text">
+                               Photo taken by
+                               <a href="https://www.pexels.com/nl-nl/@aleksey-kuprikov-1883853">
+          Aleksey Kuprikov</a>
+                            </p>
+                            </div>
+                          </div>
+                          <div class="card">
+                          <img class="card-img" src="https://images.pexels.com/photos/1829191/pexels-photo-1829191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Card image">
+                          <div class="card-img-overlay">
+                           <h5 class="card-title">An awesome title</h5>
+                           <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, maiores.</p>
+                           <p class="card-text">
+                             Photo taken by
+                             <a href="https://www.pexels.com/nl-nl/@braydenlaw">Brayden Law</a>
+                          </p>
+                          </div>
+                        </div>
+                          <div class="card">
+                          <img class="card-img" src="https://images.pexels.com/photos/2096698/pexels-photo-2096698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Card image">
+                          <div class="card-img-overlay">
+                           <h5 class="card-title">An awesome title</h5>
+                           <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, maiores.</p>
+                           <p class="card-text">
+                             Photo taken by
+                             <a href="https://www.pexels.com/nl-nl/@braydenlaw">Brayden Law</a>
+                          </p>
+                          </div>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+
+                  </div>
+
+
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </section>
